@@ -4,6 +4,9 @@
     "description": "Theme dark with colored syntax",
     "version": "2.0.0",
     "publisher": "DarkRainbow",
+    "repository": {
+        "url": "https://github.com/Gabrielvt14/dark-rainbow-vscode-theme"
+    },
     "engines": {
         "vscode": "^1.54.0"
     },
