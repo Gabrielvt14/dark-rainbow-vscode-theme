@@ -1,0 +1,22 @@
+{
+    "name": "darkrainbow",
+    "displayName": "Dark Rainbow",
+    "description": "Theme dark with colored syntax",
+    "version": "1.0.0",
+    "publisher": "DarkRainbow",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dark-rainbow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-rainbow-color-theme.json"
+            }
+        ]
+    }
+}
